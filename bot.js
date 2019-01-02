@@ -18,4 +18,4 @@ client.on("guildMemberAdd", member => {
 }).catch(console.error)
 })
  
-client.login("هنا التوكين");
+client.login("NTI5OTc4NzQxOTMwMTk3MDE0.Dw4uAQ.APZlZfEpEsB-0HPnjMms-CpUSZo");
