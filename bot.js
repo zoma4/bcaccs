@@ -13,7 +13,7 @@ console.log("Discord Bot By n3k4a.?");
  
 client.on("guildMemberAdd", member => {
   member.createDM().then(function (author) {
-  return author.send(' ** حرام واحد جميل مثلك م يكون عندنا .. تنورنا  (رابط الدسكورد )** ')
+  return author.send(' ** حرام واحد جميل مثلك م يكون عندنا .. تنورنا  (https://discord.gg/Z2gtRcD )** ')
  
 }).catch(console.error)
 })
